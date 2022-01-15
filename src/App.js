@@ -1,10 +1,14 @@
 import './App.scss'
 
+// 按需导入组件
+import CartHeader from './components/CartHeader'
+
+
 export default function App() {
   return (
     <div className="app">
       {/* 标题 */}
-      <div className="my-header">购物车</div>
+      <CartHeader>购物车</CartHeader>
 
       {/* 商品列表项 */}
       <div className="my-goods-item">
