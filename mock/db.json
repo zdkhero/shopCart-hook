@@ -21,7 +21,7 @@
       "goods_name": "思蜜怡2020休闲运动套装女春秋季新款时尚大码宽松长袖卫衣两件套",
       "goods_img": "https://www.escook.cn/vuebase/pics/3.png",
       "goods_price": 198,
-      "goods_count": 1,
+      "goods_count": 4,
       "goods_state": false
     },
     {
@@ -70,7 +70,7 @@
       "goods_img": "https://www.escook.cn/vuebase/pics/9.png",
       "goods_price": 128,
       "goods_count": 1,
-      "goods_state": false
+      "goods_state": true
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "goods_img": "https://www.escook.cn/vuebase/pics/10.png",
       "goods_price": 153,
       "goods_count": 1,
-      "goods_state": false
+      "goods_state": true
     }
   ]
 }
